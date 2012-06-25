@@ -21,6 +21,7 @@ Some example programs:
     }
 
 Which gives us:
+    
     Found a valid program after 92985 attempts.
     XorNode
       ShiftNode
